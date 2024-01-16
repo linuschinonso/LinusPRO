@@ -12,10 +12,6 @@
         {
           "microphonePermission": "Allow MR. LINUS to access the microphone",
           "speechRecognitionPermission": "Allow MR. LINUS to securely recognize user speech"
-        },
-        "expo-av",
-        {
-          "microphonePermission": "Allow MR. LINUS to access the microphone"
         }
       ]
     ],
