@@ -1,4 +1,4 @@
-package com.linusproject;
+package com.devkay.LinusProject;
 
 import android.app.Application;
 import android.content.res.Configuration;

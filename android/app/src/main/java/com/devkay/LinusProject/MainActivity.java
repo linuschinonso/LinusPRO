@@ -1,4 +1,4 @@
-package com.linusproject;
+package com.devkay.LinusProject;
 
 import android.os.Build;
 import android.os.Bundle;
