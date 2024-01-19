@@ -6,6 +6,7 @@ import {
   View,
   TouchableOpacity,
   Image,
+  Alert,
 } from "react-native";
 import { useEffect, useState } from "react";
 import Voice from "@react-native-voice/voice";
@@ -42,6 +43,7 @@ export default function App() {
 
   const onSpeechError = (error) => {
     console.log(error);
+    alert(error.error.message);
   };
   return (
     <View style={styles.container}>
